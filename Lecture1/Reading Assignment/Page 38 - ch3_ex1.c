@@ -18,5 +18,4 @@ int main(void){ //main function
 
     //%d is the conversion specifier used in i and j because they are integers while %f are used in x and y because they are float numbers
     //the conversion specifier is then replace by the values to be printed in the order they appear in the print statement
-    
 }
