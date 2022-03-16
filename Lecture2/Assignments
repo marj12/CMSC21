@@ -11,3 +11,4 @@ int main(void){
 
     printf("Reverse: %d%d", d2,d1); //print the 2nd digit first then followed by the first digit so that the output is the reverse
 }
+
