@@ -31,6 +31,5 @@ int main(){
             printf("pathway[%d] is close \n", i);
         }
    }
-
    return 0;
 }
